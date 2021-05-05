@@ -1,2 +1,2 @@
 # LMS
-Leave management system
+Leave management system for students
